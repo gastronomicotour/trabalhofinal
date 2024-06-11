@@ -1,0 +1,29 @@
+
+/*Página Principal Home*/
+
+
+.ColorHome{
+    height: 50px;
+    background-color: #8D8682; /* Cor de fundo Home*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ColorHome1{
+    height: 100px;
+    background-color: #8D8682; /* Cor de fundo Home*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ColorHome2{
+    height: 100vh;
+    background-color: #8D8682; /* Cor de fundo Home*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carousel{
+    display: flex;
+    overflow: hidden;
+    max-width: 200vh;
+    max-height: 200vh;
+    background-color: #8D8682; /* Cor de fundo do carrossel */
+}
