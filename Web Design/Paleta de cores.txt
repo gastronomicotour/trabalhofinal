@@ -1,0 +1,5 @@
+#F6F6F6 - Cor Gelo
+
+#8D8682 - Cinza
+
+#EDD6A2 - Areia
