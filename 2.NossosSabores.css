@@ -1,0 +1,112 @@
+.africa{
+
+width: 370px;
+height: 370px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 15px;
+margin-left:10px;
+background-color:#F6F6F6;
+border:30px solid #EDD6A2}
+   
+.texto1{
+color:black}
+   
+   
+.america{
+   
+width: 370px;
+height: 370px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 15px;
+margin-left: 10px;
+background-color:#F6F6F6;
+border:30px solid #EDD6A2}
+       
+.texto2{
+color:black}
+   
+   
+.asia{
+   
+width: 370px;
+height: 370px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 15px;
+margin-left:10px;
+background-color:#F6F6F6;
+border:30px solid #EDD6A2}
+           
+.texto3{
+color:black}
+   
+   
+.europa{
+   
+width: 370px;
+height: 370px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 15px;
+margin-left: 10px;
+background-color:#F6F6F6;
+border:30px solid #EDD6A2}
+               
+.texto4{
+color:black}
+   
+.oceania{
+   
+width: 370px;
+height: 370px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 15px;
+margin-left:10px;
+background-color:#F6F6F6;
+border:30px solid #EDD6A2}
+                       
+.texto5{
+color:black}
+           
+H2{
+font-style: italic;
+color: black;
+font-size: xx-large;
+margin-left:50px;}
+   
+.ns{
+   
+background-color: #8D8682; /* Cor de fundo da página*/
+font-family: Arial, sans-serif;
+color: white} 
+           
+          
+.ColorNossosSabores{
+height: 50px;
+background-color: #8D8682; /* Cor de fundo superior ao cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+
+.ColorNossosSabores1{
+height: 5px;
+background-color: #AD9551; /*Cor superior da borda do cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+        
+.ColorNossosSabores2{
+height: 6px;
+background-color: #AD9551; /*Cor inferior da borda do cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+      
+     
+footer img {
+width: 100%; /* Define a largura da imagem para 100% do contêiner */
+max-width: 100%; /* Define a largura máxima para 100% do contêiner */
+height: auto; /* Define a altura da imagem */}
+     
+     
+.ColorNossosSabores3{
+height: 6px;
+background-color: #AD9551; /*Cor superior da borda do rodapé*/}
+    

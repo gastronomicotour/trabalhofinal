@@ -1,0 +1,36 @@
+.ns{
+    
+background-color: #8D8682; /* Cor de fundo da página*/
+font-family: Arial, sans-serif;
+color: white} 
+
+.ColorMenu{
+height: 50px;
+background-color: #8D8682; /* Cor de fundo superior ao cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+    
+.ColorMenu1{
+height: 5px;
+background-color: #AD9551; /*Cor superior da borda do cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+    
+.ColorMenu2{
+height: 6px;
+background-color: #AD9551; /* Cor de fundo Home*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+    
+   
+       
+footer {
+text-align: center; /* Centraliza o conteúdo do rodapé */
+background-color: #F6F6F6; /* Cor de fundo do rodapé */}
+
+footer img {
+width: 100%; /* Define a largura da imagem para 100% do contêiner */
+max-width: 100%; /* Define a largura máxima para 100% do contêiner */
+height: auto; /* Define a altura da imagem */}
+    
+    
+.ColorMenu3{
+height: 6px;
+background-color: #AD9551; /*Cor superior da borda do rodapé*/}

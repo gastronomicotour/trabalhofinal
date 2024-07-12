@@ -1,0 +1,29 @@
+.ns {
+background-color: #8D8682; /* Cor de fundo da página*/
+font-family: Arial, sans-serif;
+color: white;}
+
+.ColorHome{
+height: 50px;
+background-color: #8D8682; /* Cor de fundo superior ao cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+
+.ColorHome1{
+height: 5px;
+background-color: #AD9551; /*Cor superior da borda do cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+
+.ColorHome2{
+height: 6px;
+background-color: #AD9551; /*Cor inferior da borda do cabeçalho*/
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+ 
+
+footer img {
+width: 100%; /* Define a largura da imagem para 100% do contêiner */
+max-width: 100%; /* Define a largura máxima para 100% do contêiner */
+height: auto; /* Define a altura da imagem */}
+
+.ColorHome3{
+height: 6px;
+background-color: #AD9551; /*Cor superior da borda do rodapé*/}
