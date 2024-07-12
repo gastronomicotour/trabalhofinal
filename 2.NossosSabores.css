@@ -5,7 +5,7 @@ height: 370px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 15px;
-margin-left:10px;
+margin-left:40px;
 background-color:#F6F6F6;
 border:30px solid #EDD6A2}
    
@@ -20,9 +20,9 @@ height: 370px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 15px;
-margin-left: 10px;
+margin-left: 720px;
 background-color:#F6F6F6;
-border:30px solid #EDD6A2}
+border:30px solid #EDD6A2;}
        
 .texto2{
 color:black}
@@ -35,7 +35,7 @@ height: 370px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 15px;
-margin-left:10px;
+margin-left:40px;
 background-color:#F6F6F6;
 border:30px solid #EDD6A2}
            
@@ -50,9 +50,10 @@ height: 370px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 15px;
-margin-left: 10px;
+margin-left: 720px;
 background-color:#F6F6F6;
-border:30px solid #EDD6A2}
+border:30px solid #EDD6A2;
+flex-direction: row-reverse}
                
 .texto4{
 color:black}
@@ -64,7 +65,7 @@ height: 370px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 15px;
-margin-left:10px;
+margin-left:40px;
 background-color:#F6F6F6;
 border:30px solid #EDD6A2}
                        

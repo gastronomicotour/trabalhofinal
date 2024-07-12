@@ -1,8 +1,6 @@
 .ns{
     
-background-color: #8D8682; /* Cor de fundo da página*/
-font-family: Arial, sans-serif;
-color: white} 
+background-color: #8D8682; /* Cor de fundo da página*/} 
 
 .ColorMenu{
 height: 50px;
@@ -19,11 +17,6 @@ height: 6px;
 background-color: #AD9551; /* Cor de fundo Home*/
 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
     
-   
-       
-footer {
-text-align: center; /* Centraliza o conteúdo do rodapé */
-background-color: #F6F6F6; /* Cor de fundo do rodapé */}
 
 footer img {
 width: 100%; /* Define a largura da imagem para 100% do contêiner */
@@ -34,3 +27,11 @@ height: auto; /* Define a altura da imagem */}
 .ColorMenu3{
 height: 6px;
 background-color: #AD9551; /*Cor superior da borda do rodapé*/}
+
+
+.centered-image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 550px; 
+height: auto;}
