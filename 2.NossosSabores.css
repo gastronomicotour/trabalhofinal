@@ -111,3 +111,8 @@ height: auto; /* Define a altura da imagem */}
 height: 6px;
 background-color: #AD9551; /*Cor superior da borda do rodapé*/}
     
+.banner{
+
+    height: 300px;
+    width: 1570px;
+    }
